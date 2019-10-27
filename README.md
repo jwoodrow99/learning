@@ -6,7 +6,7 @@ All of the text books in this repo are free licence and can be found at [goalkic
 
 We have created assignments to follow along with the goalkicker textbooks, and added aditional information and detail in each assignment flle that the textboo may not have covered. You are given a starting file as well as the completed assignment for you to compare to your own finished assignment.
 
-We will be going over several different technologies and languages, however we can not cover all programming technologies, we encourge you to get resouces from [goalkicker.com](https://goalkicker.com) to continue learning as well as [Traversy Media](https://www.youtube.com/user/TechGuyWeb) youtube channel. However we will cover the following technologies:
+We will be going over several different technologies and languages, however we can not cover all programming technologies, we encourge you to get resouces from [goalkicker.com](https://goalkicker.com) to continue learning as well as [Traversy Media](https://www.youtube.com/user/TechGuyWeb) youtube channel & [w3schools.com](https://www.w3schools.com/). However we will cover the following technologies:
 
 1. [HTML 5](https://www.w3schools.com/html/html5_intro.asp)
 2. [CSS 3](https://www.w3schools.com/Css/)
