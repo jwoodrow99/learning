@@ -1,0 +1,23 @@
+[type="text"]{
+    background-color: salmon;
+}
+
+nav a {
+    background-color: grey;
+}
+
+a:hover{
+    background-color: black;
+}
+
+nav > a:nth-child(2){
+    color: chartreuse;
+}
+
+#heading{
+    color: coral;
+}
+
+.par{
+    background-color: cornflowerblue;
+}
