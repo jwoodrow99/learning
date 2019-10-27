@@ -4,7 +4,7 @@
 
 Their are two main different types of measurement, relitive and absolute. absolute units are used when you want something to be a fixed size and never change, but you want to use relitive units so your website can change size depending on the size of the screen.
 
-Be sure to put dummy text in each eliment, as sizes will not b rendered on empty eliments.
+Be sure to put dummy text in each eliment, as sizes will not be rendered on empty eliments.
 
 The most used units we will be discussing are:
 1. %    (responsive)
