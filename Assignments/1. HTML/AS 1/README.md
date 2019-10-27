@@ -14,4 +14,4 @@
 
 ## Conclutions
 
-We should not that all of our content should always be placed in the body eliment. The name on the tab in your browser should now match your name in the title tag.
+We should note that all of our content should always be placed in the body eliment. The name on the tab in your browser should now match your name in the title tag.
