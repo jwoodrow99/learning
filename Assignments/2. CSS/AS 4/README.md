@@ -1,4 +1,4 @@
-# CSS Assingmnet 4 (CHATER 20)
+# CSS Assingmnet 4 (CHAPTER 20)
 
 **In this assignment we will be discussing units, different ways to measure things.**
 
