@@ -1,0 +1,12 @@
+div#d1 div{
+    width: 50%;
+    font-size: 2rem;
+}
+
+div#d2 {
+    width: 700px;
+}
+
+div#d3 {
+    width: 100vw;
+}

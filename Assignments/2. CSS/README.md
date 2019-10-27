@@ -7,14 +7,14 @@ NOTE: The textbook goes into far more detail about CSS than our assignments will
 Our assingments will go over the following:
 1. How to apply styles
 2. Basic selectors & Pseudo-classes
-3. CSS units
-3. Basic styles
-4. Background
-5. Box Model
-6. Typography [Google Fonts](https://fonts.google.com/)
-7. [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-8. [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-9. Media Queries
+3. Box Model
+4. CSS units
+5. Basic styles
+6. Background
+7. Typography [Google Fonts](https://fonts.google.com/)
+8. [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+9. [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+10. Media Queries
 
 <br>
 

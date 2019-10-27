@@ -1,0 +1,16 @@
+body > p:nth-child(1){
+    padding: 20px;
+}
+
+body > p:nth-child(2){
+    margin: 20px;
+}
+
+body > p:nth-child(3){
+    padding: 20px;
+    margin: 20px;
+}
+
+body > p:nth-child(4){
+    padding-top: 50px;
+}

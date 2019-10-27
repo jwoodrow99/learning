@@ -30,4 +30,4 @@ div {
 
 ## Conclutions
 
-
+CSS selectors are very important as without them we could not select things to style them, they are also important for later on as we will require them for JavaScript in order to interact with the DOM (Document Object Model).
