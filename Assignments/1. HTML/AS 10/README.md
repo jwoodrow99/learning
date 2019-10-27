@@ -2,15 +2,16 @@
 
 **In this assingment we will be showing how to use classes**
 
-We have already used id's in our earlier work, so we will on focus on classes for now. In the starting file I have included a style tag with callows me to write CSS in the html page, i simply created a class that turns the color of the text red.
+In the starting file I have included a style tag witch allows me to write CSS in the html page, I simply created a class that turns the color of the text red and an id that turns the color of the text to purple.
 
 <br>
 
 ## Steps
 
 1. Create the basic HTML layout
-2. Create a p tag with random text
-3. Add the class to the p eliment.
+2. Create two p tag with random text
+3. Add the class red to one p eliment.
+3. Add the id purple to the other p eliment.
 
 <br>
 
