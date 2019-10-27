@@ -1,11 +1,10 @@
 # Learning CSS
 
-**This Folder contains all of the assignments that follow along with the GoalKicker CSS 3 textbook. Their will be one assignment per chapter in the text book. In each assignment folder their will be a file telling you what exactly you must do, along with starting files (if any are required), and a completed version for you to refrence once you have completed the assignment for yourself.**
+**This Folder contains all of the assignments that follow along with the GoalKicker CSS 3 textbook. The assignments do not follow each chapter in the textbook, however each assignment will have a corisponding chapter to read in the textbook.**
 
-**SOME CHAPTERS WILL NOT HAVE AN ASIGNMENT**
-Assignment numbers match to the chapter they are for.
+NOTE: The textbook goes into far more detail about CSS than our assignments will cover. 
 
-NOTE: The textbook goes into far more detail about css than our assignments will cover. Our assingments will go over the following:
+Our assingments will go over the following:
 1. How to apply styles
 2. Basic selectors & Pseudo-classes
 3. CSS units

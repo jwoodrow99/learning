@@ -1,4 +1,4 @@
-# HTML Assingmnet 1
+# HTML Assingmnet 1 (CHAPTER 1)
 
 **In this assingment we will be creating a basic HTML page with the layout specified in Section 1.1**
 

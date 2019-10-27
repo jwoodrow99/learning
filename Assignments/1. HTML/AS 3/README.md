@@ -1,4 +1,4 @@
-# HTML Assingmnet 3
+# HTML Assingmnet 3 (CHAPTER 3)
 
 **In this assingment we will be showing the differences between heading levels**
 

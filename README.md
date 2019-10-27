@@ -4,7 +4,7 @@ The goal of this project is to provide practical knowlege of programing and teac
 
 All of the text books in this repo are free licence and can be found at [goalkicker.com](https://goalkicker.com) (textbooks in repo are up to date as of October 5, 2019).
 
-We have created assignments to follow along with the goalkicker textbooks, and added aditional information and detail in each assignment flle that the textboo may not have covered. You are given a starting file as well as the completed assignment for you to compare to your own finished assignment.
+We have created assignments to go over the largest components of each technology, but may not directly follow the textbook. Each assignment will have a corisonding chapter in the textbook or aditional reading for you to learn the concept prior to attempting the assignment. It is a good idea to read the entire textbook as it goes into more detail, however we are focusing on the largest concepts.
 
 We will be going over several different technologies and languages, however we can not cover all programming technologies, we encourge you to get resouces from [goalkicker.com](https://goalkicker.com) to continue learning as well as [Traversy Media](https://www.youtube.com/user/TechGuyWeb) youtube channel & [w3schools.com](https://www.w3schools.com/). However we will cover the following technologies:
 

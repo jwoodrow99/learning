@@ -1,4 +1,4 @@
-# HTML Assingmnet 6
+# HTML Assingmnet 6 (Chapter 6)
 
 **In this assingment we will be showing How to use ancors and link to other pages and different sections on our page**
 

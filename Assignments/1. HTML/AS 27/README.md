@@ -1,4 +1,4 @@
-# HTML Assingmnet 27
+# HTML Assingmnet 17 (Chapter 27)
 
 **In this assingment we will be going over option selection**
 

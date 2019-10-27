@@ -1,4 +1,4 @@
-# HTML Assingmnet 18
+# HTML Assingmnet 14 (CHAPTER 18)
 
 **In this assingment we will be creating diferent types of inputs and submitting it to an API**
 

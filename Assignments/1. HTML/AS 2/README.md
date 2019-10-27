@@ -1,4 +1,4 @@
-# HTML Assingmnet 2
+# HTML Assingmnet 2 (CHAPTER 2)
 
 **In this assingment we will be showing the differences between doctypes**
 

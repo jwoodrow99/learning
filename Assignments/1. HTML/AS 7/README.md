@@ -1,4 +1,4 @@
-# HTML Assingmnet 7
+# HTML Assingmnet 7 (CHAPTER 7)
 
 **In this assingment we will be showing how to use lists**
 

@@ -1,4 +1,4 @@
-# CSS Assingmnet 1
+# CSS Assingmnet 1 (CHAPTER 1)
 
 **Chapter 1 gives us allot of information however we will simply focus on how to get css on our pages**
 

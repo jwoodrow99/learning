@@ -1,4 +1,4 @@
-# HTML Assingmnet 8
+# HTML Assingmnet 8 (CHAPTER 8)
 
 **In this assingment we will be showing how to create a proper table**
 
