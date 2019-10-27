@@ -15,6 +15,15 @@ We will be going over several different technologies and languages, however we c
 5. [NodeJS](https://nodejs.org/en/)
 6. [MySQL](https://www.mysql.com/)
 
+Helpful Resources
+Free images: [Unsplash](https://unsplash.com)
+Free Fonts: [Google Fonts](https://fonts.google.com/)
+CSS Grid refrence: [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+CSS Flecbox refrence: [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+Textbooks: [goalkicker.com](https://goalkicker.com)
+Youtube Programming Guide: [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+Web Development resource: [w3schools.com](https://www.w3schools.com/)
+
 Other topics to reaserch and will possibly be added to the tutorial in the future:
 
 * [Electron](https://electronjs.org/)
