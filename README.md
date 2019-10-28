@@ -15,7 +15,7 @@ We will be going over several different technologies and languages, however we c
 5. [NodeJS](https://nodejs.org/en/)
 6. [MySQL](https://www.mysql.com/)
 
-Helpful Resources
+Helpful Resources and tools:
 * Free images: [Unsplash](https://unsplash.com)
 * Free Fonts: [Google Fonts](https://fonts.google.com/)
 * CSS Grid refrence: [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -23,6 +23,12 @@ Helpful Resources
 * Textbooks: [goalkicker.com](https://goalkicker.com)
 * Youtube Programming Guide: [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 * Web Development resource: [w3schools.com](https://www.w3schools.com/)
+* Web design tool: [Figma](https://www.figma.com/)
+* Web Browser [Google Chrome](https://www.google.com/chrome/)
+* Text Editor [VS Code](https://code.visualstudio.com)
+* [Node.js](https://nodejs.org/en/)
+* [mySQL](https://www.mysql.com)
+* [jQuery](https://jquery.com)
 
 Other topics to reaserch and will possibly be added to the tutorial in the future:
 
