@@ -38,6 +38,8 @@ Other topics to reaserch and will possibly be added to the tutorial in the futur
 	* Create cross platform mobile applications with NodeJS and WEB technologies.
 * [Vue JS](https://vuejs.org)
 	* A modern and lightweight front end JavaScript framework that has support for many languages and frameworks (including [Electron](https://electronjs.org/) and [NativeScript](https://www.nativescript.org))
+* [Adonis JS](https://adonisjs.com/)
+	* A modern and lightweight MVC framework for [Node.js](https://nodejs.org/en/) web apps. Styled very similar to Larvel, One of the most popular web frameworks today, used with the PHP language.
 * Linux & BASH
 	* How to deploy your applications to a web server ([Digitalocean](https://www.digitalocean.com/)), demonstrated on a local Virtual machine ([Oracle VirtualBox](https://www.virtualbox.org) & [Ubuntu](https://ubuntu.com))
 
