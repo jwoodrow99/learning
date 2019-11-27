@@ -1,6 +1,6 @@
 # CSS Assingmnet 7 (Chapter 24)
 
-**In this assignment we will be going over hot to make an overall layout for your web page using the css grid technology. It should be noted that the textbook is not the best resource for grid, take a look at this website [css-tricks Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)**
+**In this assignment we will be going over how to make an overall layout for your web page using the css grid technology. It should be noted that the textbook is not the best resource for grid, take a look at this website [css-tricks Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)**
 
 <br>
 
