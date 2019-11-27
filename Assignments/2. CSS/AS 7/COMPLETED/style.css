@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+    display: grid;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: 300px auto;
+    grid-template-areas: 
+    'head head'
+    'nav main'
+    'footer footer';
+}
+
+body > header{
+    grid-area: head;
+}
+
+body > nav{
+    grid-area: nav;
+}
+
+body > main{
+    grid-area: main;
+}
+
+body > footer{
+    grid-area: footer;
+}
+
+body > *{
+    background-color: chartreuse;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+body > nav > a{
+    background-color: green;
+}
