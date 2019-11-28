@@ -13,6 +13,7 @@ Note in order to access the console log, right click anywhere on the webpage and
 3. In your javascript file create a prompt that asks for the users name.
 4. Use the DOM API to to change the value of that p tag to the value that was entered by the prompt.
 5. Then console log the variable to see the value.
+6. add a comment in your code with your name.
 
 <br>
 
